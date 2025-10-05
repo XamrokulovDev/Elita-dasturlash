@@ -1,5 +1,5 @@
 <details>
-<summary>1. Bootstrap ga kirish</summary>
+<summary>1. Bootstrapga kirish</summary>
 
 ## Bootstrapga kirish
 
