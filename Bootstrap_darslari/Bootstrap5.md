@@ -93,7 +93,7 @@ Bu asosiy matndan biroz kattaroq va e’tiborni tortuvchi paragraf.`</p>`
 Bootstrap’da matn va fon uchun oldindan belgilangan rang sinflari mavjud.
 Bu ranglar brand ranglari deb ataladi.
 
-**`Matn ranglari`**
+### Matn ranglari
 
 ```html
 <p class="text-primary">Asosiy (ko‘k) rang</p>
@@ -104,7 +104,7 @@ Bu ranglar brand ranglari deb ataladi.
 <p class="text-muted">So‘nuk kulrang matn</p>
 ```
 
-**`Fon ranglari`**
+### Fon ranglari
 
 ```html
 <div class="bg-primary text-white p-2">Ko‘k fon</div>
