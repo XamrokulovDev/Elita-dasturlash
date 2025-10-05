@@ -53,7 +53,7 @@ Sarlavha teglari `<h1>`–`<h6>` bilan bir qatorda, `.h1`–`.h6` sinflari orqal
 <p class="h3">Sarlavha 3</p>
 ```
 
-👉 `.h1` va <h1> bir xil o‘lchamda chiqadi, lekin `.h1`ni siz har qanday tegga qo‘llay olasiz (masalan <p> yoki <div>).
+👉 `.h1` va `<h1>` bir xil o‘lchamda chiqadi, lekin `.h1`ni siz har qanday tegga qo‘llay olasiz (masalan `<p>` yoki `<div>`).
 
 **`.lead`**
 Matnni biroz kattaroq va o‘qilishi osonroq qiladi — odatda kirish paragrafi uchun ishlatiladi.
@@ -61,7 +61,7 @@ Matnni biroz kattaroq va o‘qilishi osonroq qiladi — odatda kirish paragrafi 
 ```html
 <p class="lead">
 ```
-Bu asosiy matndan biroz kattaroq va e’tiborni tortuvchi paragraf.</p>
+Bu asosiy matndan biroz kattaroq va e’tiborni tortuvchi paragraf.`</p>`
 
 **Matn hizalash `(alignment)`**
 
